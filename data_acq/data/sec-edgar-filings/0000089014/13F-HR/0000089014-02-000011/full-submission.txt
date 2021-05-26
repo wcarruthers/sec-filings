@@ -1,0 +1,383 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VEN5x8gMfB5cArUg2SN0exam7YZryZ+G6z2VWpIqjoxSkjuk1+PA+i8tcbV/j32q
+ R0ZQOTBix07FxbTnwjvitA==
+
+<SEC-DOCUMENT>0000089014-02-000011.txt : 20020812
+<SEC-HEADER>0000089014-02-000011.hdr.sgml : 20020812
+<ACCEPTANCE-DATETIME>20020812143440
+ACCESSION NUMBER:		0000089014-02-000011
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020630
+FILED AS OF DATE:		20020812
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENTRY INVESTMENT MANAGEMENT INC
+		CENTRAL INDEX KEY:			0000089014
+		IRS NUMBER:				391126714
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00870
+		FILM NUMBER:		02726597
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 N POINT DR
+		CITY:			STEVENS POINT
+		STATE:			WI
+		ZIP:			54481
+		BUSINESS PHONE:		7153466000
+
+	MAIL ADDRESS:	
+		STREET 1:		STEVENS INVEST MANGT
+		STREET 2:		1800 NORTH POINT DRIVE
+		CITY:			STEVENS POINT
+		STATE:			WI
+		ZIP:			54481
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>info_table.txt
+<DESCRIPTION>13F AS OF 6-30-02
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2002
+
+Check here if Amendment ( ); Amendment Number:  _______
+  This Amendment (Check only one)       ( ) is a restatement.
+                                        ( ) adds new holdings entires.
+
+Institutional Investment Manager Filing this Report:
+
+Name:   SENTRY INVESTMENT MANAGEMENT, INC.
+Address:1800 North Point Drive
+        Stevens Point, WI  54481
+
+Form 13F File Number:  28-870
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Keith E. Ringberg
+Title:  Director - Equities Management
+Phone:  715-346-6825
+
+Signature, Place, and Date of Signing:
+
+        Keith E. Ringberg          Stevens Point, Wisconsin        6/30/2002
+          (Signature)                   (City, State)                (Date)
+
+Report Type (Check only one.):
+
+(X)  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+     manager are reported in this report.)
+
+(  ) 13F NOTICE.  (Check here if no holdings reported are in this report, and
+     all holdings reported by other reporting manager(s).)
+
+(  ) 13F COMBINATION REPORT. (Check here if a portion of the holdings for
+     this reporting manager are reported in this report and a portion are
+     reported by other reporting manager(s).)
+
+<PAGE>
+<TABLE>
+<CAPTION>
+               COLUMN 1               COLUMN 2 COLUMN 3  COLUMN 4      COLUMN 5        COLUMN 6    COLUMN 7      COLUMN 8
+<S>                                   <C>      <C>       <C>       <C>      <C>  <C>   <C>         <C>      <C>
+                                      TITLE OF            VALUE    SHRS OR  SH/  PUT   INVESTMENT   OTHER    VOTING AUTHORITY
+            NAME OF ISSUER             CLASS    CUSIP    (X 1000)  PRN AMT  PRN  CALL  DISCRETION  MANAGERS SOLE  SHARED  NONE
+
+ABBOTT LABORATORIES                   Common   002824100      264     7,000 SHRS         SOLE       NONE      X
+ABGENIX INC                           Common   00339B107      952    97,162 SHRS         SOLE       NONE      X
+ACE LTD                               Common   G0070K103    1,106    35,000 SHRS         SOLE       NONE      X
+ACTUANT CORP                          Common   00508X203    1,873    45,400 SHRS         SOLE       NONE      X
+ACXIOM CORP                           Common   005125109    1,574    90,000 SHRS         SOLE       NONE      X
+ADMINISTAFF INC                       Common   007094105      400    40,000 SHRS         SOLE       NONE      X
+AES CORP                              Common   00130H105      663   122,300 SHRS         SOLE       NONE      X
+AFLAC INCORPORATED                    Common   001055102      224     7,000 SHRS         SOLE       NONE      X
+AKSYS LTD                             Common   010196103    3,491   505,900 SHRS         SOLE       NONE      X
+ALCOA INC                             Common   013817101    2,154    64,964 SHRS         SOLE       NONE      X
+ALLSTATE CORP                         Common   020002101      355     9,600 SHRS         SOLE       NONE      X
+AMERICAN ELECTRIC POWER CO            Common   025537101      920    23,000 SHRS         SOLE       NONE      X
+AMERICAN EXPRESS CO                   Common   025816109    3,712   102,200 SHRS         SOLE       NONE      X
+AMERICAN INTERNATIONAL GROUP          Common   026874107   13,298   194,900 SHRS         SOLE       NONE      X
+AMERICAN TOWER CORP                   Common   029912201    1,035   300,000 SHRS         SOLE       NONE      X
+AMGEN INC                             Common   031162100    3,648    87,100 SHRS         SOLE       NONE      X
+AMSOUTH BANCORPORATION                Common   032165102    1,231    55,000 SHRS         SOLE       NONE      X
+ANADARKO PETROLEUM CORP               Common   032511107    2,322    47,100 SHRS         SOLE       NONE      X
+ANHEUSER-BUSCH COS INC                Common   035229103    3,385    67,700 SHRS         SOLE       NONE      X
+AOL TIME WARNER INC                   Common   00184A105    4,823   327,850 SHRS         SOLE       NONE      X
+APACHE CORP                           Common   037411105    3,832    66,660 SHRS         SOLE       NONE      X
+APOGENT TECHNOLOGIES INC              Common   03760A101    2,499   121,500 SHRS         SOLE       NONE      X
+ARTESYN TECHNOLOGIES INC              Common   043127109    1,944   300,000 SHRS         SOLE       NONE      X
+ASSOCIATED BANC-CORP                  Common   045487105      959    25,430 SHRS         SOLE       NONE      X
+AT & T CORP                           Common   001957109    2,673   249,800 SHRS         SOLE       NONE      X
+AT & T CORP WIRELESS GROUP            Common   00209A106    1,118   191,184 SHRS         SOLE       NONE      X
+AVNET INC                             Common   053807103    2,415   109,816 SHRS         SOLE       NONE      X
+AVON PRODUCTS INC                     Common   054303102      888    17,000 SHRS         SOLE       NONE      X
+BANK OF AMERICA CORP                  Common   060505104    8,091   115,000 SHRS         SOLE       NONE      X
+BANK OF NEW YORK CO INC               Common   064057102      290     8,600 SHRS         SOLE       NONE      X
+BANK ONE CORP                         Common   06423A103    3,078    80,000 SHRS         SOLE       NONE      X
+BAXTER INTL INC                       Common   071813109    1,778    40,000 SHRS         SOLE       NONE      X
+BB&T CORP                             Common   054937107      116     3,000 SHRS         SOLE       NONE      X
+BEAR STEARNS CO INC                   Common   073902108      239     3,900 SHRS         SOLE       NONE      X
+BELLSOUTH CORP                        Common   079860102      268     8,500 SHRS         SOLE       NONE      X
+BIOMET INC                            Common   090613100    2,034    75,000 SHRS         SOLE       NONE      X
+BLACK BOX CORP                        Common   091826107    3,666    90,000 SHRS         SOLE       NONE      X
+BMC SOFTWARE INC                      Common   055921100      158     9,500 SHRS         SOLE       NONE      X
+BOEING CO (THE)                       Common   097023105    2,565    57,000 SHRS         SOLE       NONE      X
+BOSTON SCIENTIFIC CORP                Common   101137107      196     6,700 SHRS         SOLE       NONE      X
+BRISTOL-MYERS SQUIBB CO               Common   110122108    3,870   150,600 SHRS         SOLE       NONE      X
+BURLINGTON NORTHERN SANTE FE          Common   12189T104    1,545    51,500 SHRS         SOLE       NONE      X
+BURLINGTON RESOURCES INC              Common   122014103    1,258    33,100 SHRS         SOLE       NONE      X
+BUTLER MANUFACTURING CO               Common   123655102    3,055   111,300 SHRS         SOLE       NONE      X
+CABOT OIL & GAS CORP                  Common   127097103    4,259   186,400 SHRS         SOLE       NONE      X
+CAMPBELL SOUP CO                      Common   134429109      802    29,000 SHRS         SOLE       NONE      X
+CARDINAL HEALTH INC                   Common   14149Y108      347     5,650 SHRS         SOLE       NONE      X
+CARNIVAL CORP CL A                    Common   143658102      241     8,700 SHRS         SOLE       NONE      X
+CEPHALON INC                          Common   156708109    5,061   111,977 SHRS         SOLE       NONE      X
+CIGNA CORP                            Common   125509109      974    10,000 SHRS         SOLE       NONE      X
+CISCO SYSTEMS INC                     Common   17275R102    7,673   550,071 SHRS         SOLE       NONE      X
+CITIGROUP INC                         Common   172967101   14,144   365,000 SHRS         SOLE       NONE      X
+CITIZENS COMMUNICATIONS CO            Common   17453B101      168    20,100 SHRS         SOLE       NONE      X
+CLEAR CHANNEL COMMUNICATIONS          Common   184502102    2,113    66,000 SHRS         SOLE       NONE      X
+COCA COLA ENTERPRISES                 Common   191219104      347    15,700 SHRS         SOLE       NONE      X
+COCA-COLA CO                          Common   191216100    9,974   178,100 SHRS         SOLE       NONE      X
+COINSTAR INC                          Common   19259P300    5,990   245,000 SHRS         SOLE       NONE      X
+COLGATE-PALMOLIVE CO                  Common   194162103    1,902    38,000 SHRS         SOLE       NONE      X
+COMMUNITY FIRST BANKSHARES INC        Common   203902101    5,009   192,000 SHRS         SOLE       NONE      X
+COMPASS BANCSHARES INC                Common   20449H109    1,680    50,000 SHRS         SOLE       NONE      X
+CONCURRENT COMPUTER CORP              Common   206710204    1,395   300,000 SHRS         SOLE       NONE      X
+CORUS BANKSHARES INC                  Common   220873103      230     5,000 SHRS         SOLE       NONE      X
+COSTCO WHOLESALE CORP                 Common   22160K105      182     4,700 SHRS         SOLE       NONE      X
+CROWN CASTLE INTL CORP                Common   228227104    1,061   270,000 SHRS         SOLE       NONE      X
+CSX CORP                              Common   126408103      130     3,700 SHRS         SOLE       NONE      X
+CYTYC CORP                            Common   232946103    2,972   390,000 SHRS         SOLE       NONE      X
+DDI CORP                              Common   233162106      275   275,000 SHRS         SOLE       NONE      X
+DELL COMPUTER CORP                    Common   247025109      405    15,500 SHRS         SOLE       NONE      X
+DELTA & PINE LAND CO                  Common   247357106    3,116   155,000 SHRS         SOLE       NONE      X
+DELUXE CORP                           Common   248019101    2,691    69,200 SHRS         SOLE       NONE      X
+DEVON ENERGY CORP                     Common   25179M103    1,306    26,500 SHRS         SOLE       NONE      X
+DIAMETRICS MEDICAL INC                Common   252532106      736   200,000 SHRS         SOLE       NONE      X
+DISNEY (WALT) CO (THE)                Common   254687106    2,756   145,800 SHRS         SOLE       NONE      X
+DMC STRATEX NETWORKS INC              Common   23322L106    1,127   560,500 SHRS         SOLE       NONE      X
+DOW CHEMICAL CO                       Common   260543103    2,097    61,000 SHRS         SOLE       NONE      X
+DST SYSTEMS INC                       Common   233326107    1,828    40,000 SHRS         SOLE       NONE      X
+DU PONT (EI) DE NEMOURS               Common   263534109    3,197    72,000 SHRS         SOLE       NONE      X
+DUKE ENERGY CORP                      Common   264399106      255     8,200 SHRS         SOLE       NONE      X
+EL PASO CORP                          Common   28336L109      690    33,500 SHRS         SOLE       NONE      X
+ELECTRONIC DATA SYSTEMS CORP          Common   285661104      137     3,700 SHRS         SOLE       NONE      X
+EMC CORP                              Common   268648102    1,097   145,300 SHRS         SOLE       NONE      X
+EMERSON ELECTRIC CO                   Common   291011104      209     3,900 SHRS         SOLE       NONE      X
+ENDWAVE CORP                          Common   29264A107        2     2,561 SHRS         SOLE       NONE      X
+ENNIS BUSINESS FORMS INC              Common   293389102    1,305   100,000 SHRS         SOLE       NONE      X
+ENSCO INTERNATIONAL INC               Common   26874Q100      954    35,000 SHRS         SOLE       NONE      X
+EOG RESOURCES INC                     Common   26875P101    3,176    80,000 SHRS         SOLE       NONE      X
+EPIQ SYSTEMS INC                      Common   26882D109    1,199    70,425 SHRS         SOLE       NONE      X
+EXELON CORP                           Common   30161N101    1,151    22,000 SHRS         SOLE       NONE      X
+EXXON MOBIL CORP                      Common   30231G102   19,834   484,700 SHRS         SOLE       NONE      X
+FED NATL MTG ASSN                     Common   313586109      479     6,500 SHRS         SOLE       NONE      X
+FEDERATED DEPARTMENT STORES           Common   31410H101      159     4,000 SHRS         SOLE       NONE      X
+FEDEX CORP                            Common   31428X106    1,335    25,000 SHRS         SOLE       NONE      X
+FIFTH THIRD BANCORP                   Common   316773100    1,333    20,000 SHRS         SOLE       NONE      X
+FISERV INC                            Common   337738108   10,279   280,000 SHRS         SOLE       NONE      X
+FLOW INTERNATIONAL CORP               Common   343468104      623    92,500 SHRS         SOLE       NONE      X
+FORD MOTOR CO                         Common   345370860    2,000   125,002 SHRS         SOLE       NONE      X
+FUELCELL ENERGY INC                   Common   35952H106    1,029   100,000 SHRS         SOLE       NONE      X
+G & K SERVICES INC CLASS A            Common   361268105    4,280   125,000 SHRS         SOLE       NONE      X
+GARMIN LTD                            Common   G37260109    4,410   200,000 SHRS         SOLE       NONE      X
+GENERAL ELECTRIC CO                   Common   369604103   21,151   728,100 SHRS         SOLE       NONE      X
+GENERAL MTRS CORP                     Common   370442105    1,924    36,000 SHRS         SOLE       NONE      X
+GEORGIA PACIFIC CORP                  Common   373298108      170     6,900 SHRS         SOLE       NONE      X
+GILLETTE CO                           Common   375766102    2,655    78,400 SHRS         SOLE       NONE      X
+GLOBAL SANTAFE CORP                   Common   G3930E101      728    26,600 SHRS         SOLE       NONE      X
+GUIDANT CORP                          Common   401698105      112     3,700 SHRS         SOLE       NONE      X
+HANDSPRING INC                        Common   410293104      696   400,000 SHRS         SOLE       NONE      X
+HANOVER COMPRESSOR CO                 Common   410768105    4,050   300,000 SHRS         SOLE       NONE      X
+HARLEY-DAVIDSON INC                   Common   412822108    5,640   110,000 SHRS         SOLE       NONE      X
+HARTFORD FINANCIAL SVCS GROUP         Common   416515104    1,011    17,000 SHRS         SOLE       NONE      X
+HCA INC                               Common   404119109    2,375    50,000 SHRS         SOLE       NONE      X
+HEALTH MANAGEMENT ASSOCIATES INC      Common   421933102    1,008    50,000 SHRS         SOLE       NONE      X
+HEALTHSOUTH CORP                      Common   421924101      293    22,900 SHRS         SOLE       NONE      X
+HEINZ (H J) CO                        Common   423074103      986    24,000 SHRS         SOLE       NONE      X
+HEWLETT-PACKARD CO                    Common   428236103    3,352   219,400 SHRS         SOLE       NONE      X
+HOME DEPOT INC                        Common   437076102    6,402   174,300 SHRS         SOLE       NONE      X
+HONEYWELL INTL INC                    Common   438516106    2,600    73,800 SHRS         SOLE       NONE      X
+HOOPER HOLMES INC                     Common   439104100    3,760   470,000 SHRS         SOLE       NONE      X
+IBM CORP                              Common   459200101    9,360   130,000 SHRS         SOLE       NONE      X
+IDEC PHARMCEUTICALS CORP              Common   449370105    1,064    30,000 SHRS         SOLE       NONE      X
+IDX SYSTEMS CORP                      Common   449491109      651    50,000 SHRS         SOLE       NONE      X
+IMS HEALTH INC                        Common   449934108      235    13,100 SHRS         SOLE       NONE      X
+INTEL CORP                            Common   458140100    9,208   504,000 SHRS         SOLE       NONE      X
+INTERNATIONAL PAPER CO                Common   460146103    2,009    46,100 SHRS         SOLE       NONE      X
+INTERPUBLIC GROUP COS INC             Common   460690100      173     7,000 SHRS         SOLE       NONE      X
+INVACARE CORP                         Common   461203101    2,775    75,000 SHRS         SOLE       NONE      X
+JOHNSON & JOHNSON                     Common   478160104   11,446   219,027 SHRS         SOLE       NONE      X
+JONES APPAREL GROUP INC               Common   480074103      203     5,400 SHRS         SOLE       NONE      X
+KEANE INC                             Common   486665102    1,240   100,000 SHRS         SOLE       NONE      X
+KEYSTONE AUTOMOTIVE INDUSTRIES        Common   49338N109    6,545   340,000 SHRS         SOLE       NONE      X
+KROGER CO                             Common   501044101      257    12,900 SHRS         SOLE       NONE      X
+LANCASTER COLONY CORP                 Common   513847103    2,944    82,550 SHRS         SOLE       NONE      X
+LIBERTY MEDIA CORP                    Common   530718105    1,250   125,000 SHRS         SOLE       NONE      X
+LINCARE HOLDINGS INC                  Common   532791100    9,044   280,000 SHRS         SOLE       NONE      X
+LINCOLN NATIONAL CORP                 Common   534187109      160     3,800 SHRS         SOLE       NONE      X
+LSI LOGIC CORP                        Common   502161102       90    10,300 SHRS         SOLE       NONE      X
+LUCENT TECHNOLOGIES INC               Common   549463107      353   212,500 SHRS         SOLE       NONE      X
+MANITOWOC COMPANY INC                 Common   563571108   11,147   314,100 SHRS         SOLE       NONE      X
+MARSHALL & ILSLEY CORP                Common   571834100   10,547   341,000 SHRS         SOLE       NONE      X
+MAY DEPT STORES                       Common   577778103      692    21,000 SHRS         SOLE       NONE      X
+MC DONALDS CORPORATION                Common   580135101    3,622   127,300 SHRS         SOLE       NONE      X
+MEADE INSTRUMENTS CORP                Common   583062104    1,531   270,000 SHRS         SOLE       NONE      X
+MEDQUIST INC                          Common   584949101    1,502    56,414 SHRS         SOLE       NONE      X
+MEDTRONIC INC                         Common   585055106    3,779    88,200 SHRS         SOLE       NONE      X
+MEN'S WEARHOUSE INC (THE)             Common   587118100    1,275    50,000 SHRS         SOLE       NONE      X
+MERCK & CO INC                        Common   589331107    5,145   101,600 SHRS         SOLE       NONE      X
+MERIDIAN BIOSCIENCE INC               Common   589584101    1,139   165,000 SHRS         SOLE       NONE      X
+MERRILL LYNCH & CO INC                Common   590188108    2,576    63,600 SHRS         SOLE       NONE      X
+METHODE ELECTRONICS INC CL A          Common   591520200    1,277   100,000 SHRS         SOLE       NONE      X
+MGIC INVESTMENT CORP                  Common   552848103    2,617    38,600 SHRS         SOLE       NONE      X
+MICROSOFT CORP                        Common   594918104   21,546   393,900 SHRS         SOLE       NONE      X
+MILLER HERMAN INC                     Common   600544100    2,030   100,000 SHRS         SOLE       NONE      X
+MORGAN JP CHASE & CO                  Common   46625H100    5,065   149,310 SHRS         SOLE       NONE      X
+MORGAN STANLEY                        Common   617446448    3,778    87,700 SHRS         SOLE       NONE      X
+MOTOROLA INC                          Common   620076109      202    14,000 SHRS         SOLE       NONE      X
+NABORS INDUSTRIES INC                 Common   629568106    1,338    37,900 SHRS         SOLE       NONE      X
+NATIONAL PRESTO INDS INC              Common   637215104    3,200   100,000 SHRS         SOLE       NONE      X
+NCI BUILDING SYSTEMS INC              Common   628852105    2,836   159,300 SHRS         SOLE       NONE      X
+NORTEL NETWORKS CORP                  Common   656568102      456   314,777 SHRS         SOLE       NONE      X
+NUANCE COMMUNICATIONS INC             Common   669967101      143    34,189 SHRS         SOLE       NONE      X
+OCCIDENTAL PETROLEUM CORP             Common   674599105      195     6,500 SHRS         SOLE       NONE      X
+OMNICARE INC                          Common   681904108    3,283   125,000 SHRS         SOLE       NONE      X
+ORACLE CORP                           Common   68389X105    2,274   240,100 SHRS         SOLE       NONE      X
+OSHKOSH TRUCK CORP                    Common   688239201   11,535   195,150 SHRS         SOLE       NONE      X
+OUTBACK STEAKHOUSE INC                Common   689899102    1,755    50,000 SHRS         SOLE       NONE      X
+PALM INC                              Common   696642107    1,056   600,000 SHRS         SOLE       NONE      X
+PEPSI BOTTLING GROUP INC              Common   713409100      209     6,800 SHRS         SOLE       NONE      X
+PEPSICO INC                           Common   713448108    5,967   123,800 SHRS         SOLE       NONE      X
+PERKINELMER INC                       Common   714046109      138    12,500 SHRS         SOLE       NONE      X
+PFIZER INC                            Common   717081103   16,832   480,900 SHRS         SOLE       NONE      X
+PHARMACIA CORP                        Common   71713U102    3,704    98,900 SHRS         SOLE       NONE      X
+PHILIP MORRIS COS                     Common   718154107    8,727   199,800 SHRS         SOLE       NONE      X
+PNC FINANCIAL SERVICES GROUP          Common   693475105    1,307    25,000 SHRS         SOLE       NONE      X
+POGO PRODUCING CO                     Common   730448107    1,631    50,000 SHRS         SOLE       NONE      X
+PRIDE INTERNATIONAL INC               Common   74153Q102      783    50,000 SHRS         SOLE       NONE      X
+PROCTER & GAMBLE CO                   Common   742718109    8,100    90,700 SHRS         SOLE       NONE      X
+QIAGEN NV                             Common   N72482107    1,299   111,500 SHRS         SOLE       NONE      X
+QUALCOMM INC                          Common   747525103      195     7,100 SHRS         SOLE       NONE      X
+QUIDEL CORP                           Common   74838J101    1,034   150,000 SHRS         SOLE       NONE      X
+RADISYS CORP                          Common   750459109      355    30,500 SHRS         SOLE       NONE      X
+RARE HOSPITALITY INTL INC             Common   753820109    3,836   142,500 SHRS         SOLE       NONE      X
+RAYOVAC CORP                          Common   755081106    6,717   362,500 SHRS         SOLE       NONE      X
+RAYTHEON CO                           Common   755111507    1,060    26,000 SHRS         SOLE       NONE      X
+REEBOK INTERNATIONAL LTD              Common   758110100      148     5,000 SHRS         SOLE       NONE      X
+REGIS CORP                            Common   758932107    6,485   240,000 SHRS         SOLE       NONE      X
+RENAISSANCE LEARNING INC              Common   75968L105    2,022   100,000 SHRS         SOLE       NONE      X
+RENAL CARE GROUP INC                  Common   759930100    7,009   225,000 SHRS         SOLE       NONE      X
+REPUBLIC BANCORP INC (MI)             Common   760282103    3,086   206,530 SHRS         SOLE       NONE      X
+RMH TELESERVICES INC                  Common   749938106      601    87,500 SHRS         SOLE       NONE      X
+ROCHESTER MEDICAL CORP                Common   771497104    1,185   197,500 SHRS         SOLE       NONE      X
+ROYAL DUTCH PETROLEUM                 Common   780257804      514     9,300 SHRS         SOLE       NONE      X
+RUBY TUESDAY INC                      Common   781182100    2,301   118,600 SHRS         SOLE       NONE      X
+SABA SOFTWARE INC                     Common   784932105    2,038   799,075 SHRS         SOLE       NONE      X
+SANMINA-SCI CORP                      Common   800907107       95    15,000 SHRS         SOLE       NONE      X
+SARA LEE CORP                         Common   803111103    1,135    55,000 SHRS         SOLE       NONE      X
+SBC COMMUNICATIONS INC                Common   78387G103    7,738   253,700 SHRS         SOLE       NONE      X
+SCHERING-PLOUGH CORP                  Common   806605101      241     9,800 SHRS         SOLE       NONE      X
+SCHLUMBERGER LTD                      Common   806857108    1,976    42,500 SHRS         SOLE       NONE      X
+SCHWEITZER-MAUDUIT INTL INC           Common   808541106    4,305   175,000 SHRS         SOLE       NONE      X
+SEACHANGE INTERNATIONAL INC           Common   811699107    1,756   200,000 SHRS         SOLE       NONE      X
+SEARS ROEBUCK AND CO                  Common   812387108    1,303    24,000 SHRS         SOLE       NONE      X
+SIGMA ALDRICH CORP                    Common   826552101      241     4,800 SHRS         SOLE       NONE      X
+SOUTHERN CO                           Common   842587107    1,315    48,000 SHRS         SOLE       NONE      X
+SPSS INC                              Common   78462K102    3,419   220,000 SHRS         SOLE       NONE      X
+ST JUDE MEDICAL INC                   Common   790849103    2,216    30,000 SHRS         SOLE       NONE      X
+STEAK N SHAKE CO (THE)                Common   857873103    2,343   149,727 SHRS         SOLE       NONE      X
+STELLENT INC                          Common   85856W105      916   200,000 SHRS         SOLE       NONE      X
+STRATOS LIGHTWAVE INC                 Common   863100103      242   151,130 SHRS         SOLE       NONE      X
+SUN HYDRAULICS INC                    Common   866942105    1,169   145,000 SHRS         SOLE       NONE      X
+SUNGARD DATA SYSTEMS INC              Common   867363103    2,913   110,000 SHRS         SOLE       NONE      X
+SWIFT ENERGY CO                       Common   870738101      790    50,000 SHRS         SOLE       NONE      X
+SYMBOL TECHNOLOGIES INC               Common   871508107      850   100,000 SHRS         SOLE       NONE      X
+TARGET CORP                           Common   87612E106      278     7,300 SHRS         SOLE       NONE      X
+TBC CORP                              Common   872180104    1,667   105,000 SHRS         SOLE       NONE      X
+TESSCO TECHNOLOGIES INC               Common   872386107    2,280   232,700 SHRS         SOLE       NONE      X
+TETRA TECH INC                        Common   88162G103    3,216   218,750 SHRS         SOLE       NONE      X
+TEXAS INSTRUMENTS INC                 Common   882508104    2,993   126,300 SHRS         SOLE       NONE      X
+TIDEWATER INC                         Common   886423102    3,127    95,000 SHRS         SOLE       NONE      X
+TYCO INTL LTD                         Common   902124106    2,618   193,800 SHRS         SOLE       NONE      X
+UNITED STATIONERS INC                 Common   913004107    4,347   143,000 SHRS         SOLE       NONE      X
+UNITED TECHNOLOGIES CORP              Common   913017109    2,757    40,600 SHRS         SOLE       NONE      X
+UNIVERSAL HEALTH SVCS CLASS B         Common   913903100      980    20,000 SHRS         SOLE       NONE      X
+UNIVISION COMMUNICATIONS              Common   914906102      182     5,800 SHRS         SOLE       NONE      X
+UNOCAL CORP                           Common   915289102      137     3,700 SHRS         SOLE       NONE      X
+UNUMPROVIDENT CORP                    Common   91529Y106      239     9,400 SHRS         SOLE       NONE      X
+UROLOGIX INC                          Common   917273104    1,279   100,000 SHRS         SOLE       NONE      X
+US BANCORP                            Common   902973304    8,957   383,588 SHRS         SOLE       NONE      X
+UST INC                               Common   902911106    6,596   194,000 SHRS         SOLE       NONE      X
+VENTANA MEDICAL SYSTEM INC            Common   92276H106    2,854   130,000 SHRS         SOLE       NONE      X
+VERIZON COMMUNICATIONS                Common   92343V104    8,073   201,060 SHRS         SOLE       NONE      X
+VIACOM INC - CLASS B                  Common   925524308    5,981   134,800 SHRS         SOLE       NONE      X
+WAL-MART STORES INC                   Common   931142103   18,104   329,100 SHRS         SOLE       NONE      X
+WALGREEN CO                           Common   931422109    3,770    97,600 SHRS         SOLE       NONE      X
+WASHINGTON FEDERAL INC                Common   938824109    4,386   173,635 SHRS         SOLE       NONE      X
+WATERS CORP                           Common   941848103    2,985   111,800 SHRS         SOLE       NONE      X
+WEBEX COMMUNICATIONS INC              Common   94767L109    2,703   170,000 SHRS         SOLE       NONE      X
+WELLS FARGO CO                        Common   949746101    6,388   127,600 SHRS         SOLE       NONE      X
+WERNER ENTERPRISES INC                Common   950755108    2,841   133,333 SHRS         SOLE       NONE      X
+XTO ENERGY INC                        Common   98385X106    3,476   168,750 SHRS         SOLE       NONE      X
+ZALE CORP                             Common   988858106      692    19,100 SHRS         SOLE       NONE      X
+
+                                                          689,695    29,785,947
+</TABLE>
+<PAGE>
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:                   0
+
+Form 13F Information Table Entry Tota              239
+
+Form 13F Information Table Value Tota          689,695
+                                              (thousands)
+
+
+List of Other Included Managers:
+
+
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+
+                          NONE
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,373 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SHwGvv47iDuKnHCLiyvqNpheCo4KaI0EVvXVTXdNg8emjXXPnTffi0E19MiHk8fw
+ HlRv5LcTrFRNbGTYnjP7BA==
+
+<SEC-DOCUMENT>0000089014-10-000051.txt : 20101112
+<SEC-HEADER>0000089014-10-000051.hdr.sgml : 20101111
+<ACCEPTANCE-DATETIME>20101112112802
+ACCESSION NUMBER:		0000089014-10-000051
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101112
+DATE AS OF CHANGE:		20101112
+EFFECTIVENESS DATE:		20101112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SENTRY INVESTMENT MANAGEMENT INC
+		CENTRAL INDEX KEY:			0000089014
+		IRS NUMBER:				391126714
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00870
+		FILM NUMBER:		101184286
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 N POINT DR
+		CITY:			STEVENS POINT
+		STATE:			WI
+		ZIP:			54481
+		BUSINESS PHONE:		7153466000
+
+	MAIL ADDRESS:	
+		STREET 1:		STEVENS INVEST MANGT
+		STREET 2:		1800 NORTH POINT DRIVE
+		CITY:			STEVENS POINT
+		STATE:			WI
+		ZIP:			54481
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>simllc_13f9302010-16.txt
+<DESCRIPTION>13F AS OF 9/30/10
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+Form 13F
+
+FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: August 30, 2010
+
+Check here if Amendment ( ); Amendment Number:  _______
+  This Amendment (Check only one.):	( ) is a restatement.
+				( ) adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:		SENTRY INVESTMENT MANAGEMENT, INC.
+Address:	1800 North Point Drive
+		Stevens Point, WI  54481
+
+Form 13F File Number:  28-870
+
+The institutional investment manager filing this report and the person
+ by whom it is signed hereby represent that the person signing the
+report is authorized to submit it, that all information contained herein
+is true, correct and complete, and that it is understood that all required
+items, statements, schedules, lists, and tables, are considered integral
+parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:	Chris Meadows
+Title:	Portfolio Manager - Equities
+Phone:	715-346-6374
+
+Signature, Place, and Date of Signing:
+
+Chris Meadows	Stevens Point, Wisconsin	9/30/2010
+(Signature)	(City, State)		(Date)
+
+Report Type (Check only one.):
+
+(X)	13F HOLDINGS REPORT.  (Check here if all holdings
+      	of this reporting manager are reported in this report.)
+
+(  )	13F NOTICE.  (Check here if no holdings reported are in
+      	this report, and all holdings reported by other reporting
+	manager(s).)
+
+(  )	13F COMBINATION REPORT.  (Check here if a portion
+      	of the holdings for this reporting manager are reported in
+	this report and a portion are reported by other reporting
+	manager(s).)
+
+FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:	0
+
+Form 13F Information Table Entry Total:	162
+
+Form 13F Information Table Value Total:	1,178,648
+	(thousands)
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file
+number(s) of all institutional investment managers with
+respect to which this report is filed, other than the manager
+filing this report.
+
+NONE
+<PAGE>
+<TABLE>
+<CAPTION>
+		Title of			Value	Shrs or	Sh/	Investment	Other	Voting Authority
+Name Of Issuer	Class	CUSIP		(X 1000)	Prn Amt	Prn	Discretion		Managers	Sole  Shared  None
+<S>		<C>	<C>		<C>	<C>	<C>	<C>		<C>	<C>
+3M Company	Common	88579Y101	128	1,471.00	Shrs	Sole		None	X
+Abbott Laboratories	Common	002824100		167	3,189.00	Shrs	Sole		None	X
+Ace Ltd		Common	H0023R105	6	100.00	Shrs	Sole		None	X
+Adobe Systems Inc	Common	00724F101		6,015	230,000.00	Shrs	Sole		None	X
+Aerovironment Inc	Common	008073108		12,704	570,983.00	Shrs	Sole		None	X
+Affirmative Ins
+Holdings Inc	Common	008272106		0	100.00	Shrs	Sole		None	X
+Alcoa Inc		Common	013817101		24	1,988.00	Shrs	Sole		None	X
+Alliance Data
+Systems Corp	Common	018581108		13,320	204,100.00	Shrs	Sole		None	X
+Allstate Corp	Common	020002101		34	1,091.00	Shrs	Sole		None	X
+Altria Group Inc	Common	02209S103		101	4,204.00	Shrs	Sole		None	X
+Amazon.Com Inc	Common	023135106		107	684.00	Shrs	Sole		None	X
+Ameren Corp	Common	023608102		500	17,600.00	Shrs	Sole		None	X
+American Express
+Co		Common	025816109		1,350	32,126.00	Shrs	Sole		None	X
+Amgen Inc	Common	031162100		111	2,006.00	Shrs	Sole		None	X
+Apollo Group Inc
+Class A		Common	037604105		9,038	176,000.00	Shrs	Sole		None	X
+Apple Inc		Common	037833100		10,406	36,673.00	Shrs	Sole		None	X
+Argo Group
+International	Common	G0464B107	2	64.00	Shrs	Sole		None	X
+AT&T Inc	Common	00206R102	6,743	235,761.00	Shrs	Sole		None	X
+Avon Products Inc	Common	054303102		27	840.00	Shrs	Sole		None	X
+Baker Hughes Inc	Common	057224107		38	900.00	Shrs	Sole		None	X
+Baldwin & Lyons
+Inc - CL B		Common	057755209		3	100.00	Shrs	Sole		None	X
+Bank Of America
+Corp		Common	060505104		3,292	251,135.00	Shrs	Sole		None	X
+Bank Of New York
+Mellon Corp	Common	064058100		65	2,504.00	Shrs	Sole		None	X
+Baxter Intl Inc	Common	071813109		59	1,243.00	Shrs	Sole		None	X
+Berkshire Hathaway
+Inc		Common	084670702		3,449	41,711.00	Shrs	Sole		None	X
+Boeing Co (The)	Common	097023105		104	1,561.00	Shrs	Sole		None	X
+Bristol-Myers
+Squibb Co	Common	110122108		95	3,519.00	Shrs	Sole		None	X
+Campbell Soup Co	Common	134429109		986	27,590.00	Shrs	Sole		None	X
+Capital One
+Financial Corp	Common	14040H105	36	918.00	Shrs	Sole		None	X
+Caterpillar Inc	Common	149123101		98	1,249.00	Shrs	Sole		None	X
+Chevron Corp	Common	166764100		4,201	51,832.00	Shrs	Sole		None	X
+Chubb Corp	Common	171232101		11	200.00	Shrs	Sole		None	X
+Cincinnati Financial
+Corp		Common	172062101		3	100.00	Shrs	Sole		None	X
+Cisco Systems Inc	Common	17275R102	5,019	229,162.00	Shrs	Sole		None	X
+Citigroup Inc	Common	172967101		157	40,301.00	Shrs	Sole		None	X
+Clorox Company	Common	189054109		1,335	20,000.00	Shrs	Sole		None	X
+CNA Financial Corp	Common	126117100		3	100.00	Shrs	Sole		None	X
+Coca-Cola Co	Common	191216100		5,412	92,474.00	Shrs	Sole		None	X
+Colgate-Palmolive
+Co		Common	194162103		79	1,027.00	Shrs	Sole		None	X
+Comcast Corp Class
+A		Common	20030N101	105	5,832.00	Shrs	Sole		None	X
+Conagra Foods Inc	Common	205887102		1,387	63,200.00	Shrs	Sole		None	X
+ConocoPhillips	Common	20825C104	176	3,057.00	Shrs	Sole		None	X
+Consolidated
+Edison Inc	Common	209115104		945	19,600.00	Shrs	Sole		None	X
+Costco Wholesale
+Corp		Common	22160K105	58	894.00	Shrs	Sole		None	X
+CVS Caremark Corp	Common	126650100		91	2,907.00	Shrs	Sole		None	X
+Dell Inc		Common	24702R101	46	3,573.00	Shrs	Sole		None	X
+Devon Energy Corp	Common	25179M103	59	912.00	Shrs	Sole		None	X
+Diamond Foods Inc	Common	252603105		12,703	309,900.00	Shrs	Sole		None	X
+Disney (Walt) Co
+(The)		Common	254687106		132	3,982.00	Shrs	Sole		None	X
+Dow Chemical Co	Common	260543103		65	2,366.00	Shrs	Sole		None	X
+DU Pont (EI)
+De Nemours	Common	263534109		80	1,801.00	Shrs	Sole		None	X
+Entergy Corp	Common	29364G103	30	390.00	Shrs	Sole		None	X
+Erie Indemnity
+Company - CL A	Common	29530P102		6	100.00	Shrs	Sole		None	X
+Exelon Corp	Common	30161N101	56	1,321.00	Shrs	Sole		None	X
+Express Scripts Inc	Common	302182100		18,608	382,100.00	Shrs	Sole		None	X
+Exxon Mobil Corp	Common	30231G102	8,724	141,186.00	Shrs	Sole		None	X
+Ford Motor Co	Common	345370860		83	6,804.00	Shrs	Sole		None	X
+Fti Consulting Inc	Common	302941109		9,887	285,000.00	Shrs	Sole		None	X
+General Dynamics
+Corp		Common	369550108		50	792.00	Shrs	Sole		None	X
+General Electric Co	Common	369604103		7,780	478,776.00	Shrs	Sole		None	X
+Gilead Sciences Inc	Common	375558103		66	1,855.00	Shrs	Sole		None	X
+Global Payments Inc	Common	37940X102	11,319	263,900.00	Shrs	Sole		None	X
+Goldman Sachs
+Group Inc		Common	38141G104	2,326	16,087.00	Shrs	Sole		None	X
+Google Inc	Common	38259P508		262	498.00	Shrs	Sole		None	X
+Grand Canyon
+Education Inc	Common	38526M106	21,599	984,897.00	Shrs	Sole		None	X
+Halliburton Co	Common	406216101		62	1,867.00	Shrs	Sole		None	X
+Harleysville Group
+Inc		Common	412824104		3	100.00	Shrs	Sole		None	X
+Heinz (H J) CO	Common	423074103		1,052	22,200.00	Shrs	Sole		None	X
+Hewlett-Packard Co	Common	428236103		206	4,901.00	Shrs	Sole		None	X
+Home Depot Inc	Common	437076102		112	3,525.00	Shrs	Sole		None	X
+Honeywell Intl Inc	Common	438516106		67	1,531.00	Shrs	Sole		None	X
+IBM Corp		Common	459200101		6,933	51,684.00	Shrs	Sole		None	X
+Infinity Prop &
+Casualty Corp	Common	45665Q103	5	100.00	Shrs	Sole		None	X
+Intel Corp		Common	458140100		4,514	234,717.00	Shrs	Sole		None	X
+ISHARES Barclays
+Agg Bond Fund	Common	464287226		1,800	16,563.00	Shrs	Sole		None	X
+ISHARES Barclays
+Tips Bond Fund	Common	464287176		1,178	10,807.00	Shrs	Sole		None	X
+ISHARES Cohen &
+Steers Realty Fund	Common	464287564		12,493	201,662.00	Shrs	Sole		None	X
+ISHARES DJ US
+Real Estate Fund	Common	464287739		15,033	284,292.00	Shrs	Sole		None	X
+ISHARES IBOXX
+Invt Grade Grp Bond
+Fund		Common	464287242		46,800	413,827.00	Shrs	Sole		None	X
+ISHARES MSCI
+EAFE Index Fund	Common	464287465		24,261	441,754.00	Shrs	Sole		None	X
+ISHARES S&P 400
+Midcap Index Fund	Common	464287507		45,876	572,872.00	Shrs	Sole		None	X
+ISHARES S&P 500
+Index Fund	Common	464287200		61,951	541,103.00	Shrs	Sole		None	X
+ISHARES S&P 600
+Smallcap Index Fund	Common	464287804		45,922	777,152.00	Shrs	Sole		None	X
+Jarden Corp	Common	471109108		15,802	507,600.00	Shrs	Sole		None	X
+Johnson & Johnson	Common	478160104		353	5,699.00	Shrs	Sole		None	X
+JP Morgan Chase &
+Co		Common	46625H100	3,917	102,879.00	Shrs	Sole		None	X
+K12 Inc		Common	48273U102	7,072	243,600.00	Shrs	Sole		None	X
+Kellogg Co	Common	487836108		1,889	37,400.00	Shrs	Sole		None	X
+Kimberly-Clark Corp	Common	494368103		1,808	27,800.00	Shrs	Sole		None	X
+Kraft Foods Inc	Common	50075N104	3,983	129,079.00	Shrs	Sole		None	X
+Leucadia National
+Corp		Common	527288104		5	200.00	Shrs	Sole		None	X
+Lockheed Martin
+Corp		Common	539830109		47	654.00	Shrs	Sole		None	X
+Lowes Companies
+Inc		Common	548661107		68	3,039.00	Shrs	Sole		None	X
+Marshall & Ilsley
+Corp		Common	571837103		2,401	340,998.00	Shrs	Sole		None	X
+Mastercard Inc -
+Class A		Common	57636Q104	14,589	65,128.00	Shrs	Sole		None	X
+Mc Donalds Corp	Common	580135101		166	2,228.00	Shrs	Sole		None	X
+Mcdermott Intl Inc	Common	580037109		3,643	246,500.00	Shrs	Sole		None	X
+Medco Health
+Solutions Inc	Common	58405U102	18,091	347,500.00	Shrs	Sole		None	X
+Medtronic Inc	Common	585055106		77	2,282.00	Shrs	Sole		None	X
+Merck & Co Inc	Common	58933Y105	237	6,435.00	Shrs	Sole		None	X
+Mercury Gen Corp	Common	589400100		4	100.00	Shrs	Sole		None	X
+Metlife Inc	Common	59156R108	865	22,487.00	Shrs	Sole		None	X
+Microsoft Corp	Common	594918104		7,686	313,833.00	Shrs	Sole		None	X
+Monsanto Co	Common	61166W101	54	1,129.00	Shrs	Sole		None	X
+Morgan Stanley	Common	617446448		925	37,486.00	Shrs	Sole		None	X
+Nalco Holding Co	Common	62985Q101	10,931	433,600.00	Shrs	Sole		None	X
+National Oilwell
+Varco Inc		Common	637071101		38	858.00	Shrs	Sole		None	X
+News Corporation	Common	65248E104		60	4,594.00	Shrs	Sole		None	X
+Norfolk Southern
+Corp		Common	655844108		45	762.00	Shrs	Sole		None	X
+Nuvasive Inc	Common	670704105		18,986	540,300.00	Shrs	Sole		None	X
+NYSE EURONEXT	Common	629491101		16	546.00	Shrs	Sole		None	X
+Occidental Petro-
+leum Corp		Common	674599105		7,679	98,069.00	Shrs	Sole		None	X
+Old Republic Intl
+Corp		Common	680223104		2	125.00	Shrs	Sole		None	X
+Omnicell Inc	Common	68213N109	2,468	188,700.00	Shrs	Sole		None	X
+Oracle Corp	Common	68389X105	4,295	159,948.00	Shrs	Sole		None	X
+Orbital Sciences
+Corp		Common	685564106		19,092	1,247,847.	Shrs	Sole		None	X
+Pepsico Inc	Common	713448108		4,322	65,045.00	Shrs	Sole		None	X
+Petrohawk Energy
+Corp		Common	716495106		4,006	248,200.00	Shrs	Sole		None	X
+Pfizer Inc		Common	717081103		2,897	168,743.00	Shrs	Sole		None	X
+Philip Morris
+International	Common	718172109		4,205	75,068.00	Shrs	Sole		None	X
+Pma Capital Corp -
+Cl A		Common	693419202		1	100.00	Shrs	Sole		None	X
+Principal Financial
+Group		Common	74251V102	3	100.00	Shrs	Sole		None	X
+Procter & Gamble Co	Common	742718109		6,939	115,706.00	Shrs	Sole		None	X
+Progressive Corp	Common	743315103		8	400.00	Shrs	Sole		None	X
+Pss World Medical
+Inc		Common	69366A100	6,232	291,510.00	Shrs	Sole		None	X
+Qualcomm Inc	Common	747525103		156	3,459.00	Shrs	Sole		None	X
+Ralcorp Holdings
+ Inc		Common	751028101		5,468	93,500.00	Shrs	Sole		None	X
+Raytheon Co	Common	755111507		36	792.00	Shrs	Sole		None	X
+Sara Lee Corp	Common	803111103		1,311	97,581.00	Shrs	Sole		None	X
+Schlumberger Ltd	Common	806857108		153	2,486.00	Shrs	Sole		None	X
+Schweitzer-Mauduit
+Intl Inc		Common	808541106		5,055	86,700.00	Shrs	Sole		None	X
+Scotts Miracle-Gro
+Co-Cl A		Common	810186106		6,109	118,100.00	Shrs	Sole		None	X
+Sector Spdr Con-
+sumer Staples	Common	81369Y308	5,281	189,500.00	Shrs	Sole		None	X
+Sector Spdr Utilities
+Select Sector	Common	81369Y886	14,816	472,600.00	Shrs	Sole		None	X
+Southern Co	Common	842587107		2,294	61,605.00	Shrs	Sole		None	X
+Spdr Trust Series 1	Common	78462F103		434,727	3,809,050.	Shrs	Sole		None	X
+Sprint Nextel Corp	Common	852061100		27	5,781.00	Shrs	Sole		None	X
+State Auto Financial
+Corp		Common	855707105		2	100.00	Shrs	Sole		None	X
+Supervalu Inc	Common	868536103		394	34,200.00	Shrs	Sole		None	X
+Sysco Corp	Common	871829107		1,204	42,200.00	Shrs	Sole		None	X
+Target Corp	Common	87612E106		83	1,549.00	Shrs	Sole		None	X
+Thermo Fisher
+Scientific Inc	Common	883556102		19,846	414,500.00	Shrs	Sole		None	X
+Time Warner Inc	Common	887317303		73	2,388.00	Shrs	Sole		None	X
+Tower Group Inc	Common	891777104		2	100.00	Shrs	Sole		None	X
+Transatlantic
+Holdings Inc	Common	893521104		5	100.00	Shrs	Sole		None	X
+Travelers Com-
+panies Inc (The)	Common	89417E109		5	100.00	Shrs	Sole		None	X
+United Fire &
+Casualty Co	Common	910331107		2	100.00	Shrs	Sole		None	X
+United Parcel
+Service Inc	Common	911312106		136	2,042.00	Shrs	Sole		None	X
+United Tech-
+nologies Corp	Common	913017109		138	1,934.00	Shrs	Sole		None	X
+Unitedhealth Group
+Inc		Common	91324P102		84	2,402.00	Shrs	Sole		None	X
+Us Bancorp	Common	902973304		1,048	48,480.00	Shrs	Sole		None	X
+Vanguard Extended
+Mkt Index Fu	Common	922908207		3	94.41	Shrs	Sole		None	X
+Vanguard Global
+Equity Fund	Common	922038203		5	283.83	Shrs	Sole		None	X
+Vanguard Total
+Bond Market	Common	921937835		26,997	326,600.00	Shrs	Sole		None	X
+Verizon
+Communications	Common	92343V104	3,698	113,483.00	Shrs	Sole		None	X
+Visa Inc - Class A
+Shares		Common	92826C839	15,535	209,200.00	Shrs	Sole		None	X
+Wal-Mart Stores Inc	Common	931142103		4,443	83,008.00	Shrs	Sole		None	X
+Walgreen Co	Common	931422109		68	2,042.00	Shrs	Sole		None	X
+Wells Fargo Co	Common	949746101		3,330	132,497.00	Shrs	Sole		None	X
+Weyerhaeuser Co	Common	962166104		16	1,026.00	Shrs	Sole		None	X
+Williams Cos Inc	Common	969457100		24	1,237.00	Shrs	Sole		None	X
+Xerox Corp	Common	984121103		29	2,815.00	Shrs	Sole		None	X
+XL Group Plc	Common	G98290102	2	100.00	Shrs	Sole		None	X
+
+</TABLE>
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

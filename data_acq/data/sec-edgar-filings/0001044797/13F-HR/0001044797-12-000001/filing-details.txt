@@ -1,0 +1,148 @@
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>inftable.txt
+<DESCRIPTION>13F HR-TABLE
+<TEXT>
+<TABLE>
+                                                                  FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER          VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS     SOLE    SHARED    NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+<S>                            <C>              <C>       <C>      <C>      <C> <C>  <C>     <C>          <C>      <C>      <C>
+Altria Group Inc.              COM              02209S103      308    10400 SH       SOLE                    10400
+Amerisafe Inc.                 COM              03071H100    26171  1125634 SH       SOLE                   749734            375900
+                                                               317    13641 SH       OTHER   02 04           13641
+Ares Capital Corp.             COM              04010L103    23233  1503735 SH       SOLE                  1034344            469391
+                                                               261    16885 SH       OTHER   02 04           16885
+Autozone Inc.                  COM              053332102    47131   145032 SH       SOLE                   139132              5900
+                                                               151      465 SH       OTHER   02                465
+Bristol-Myers Squibb Co.       COM              110122108      293     8312 SH       SOLE                     8312
+Brookdale Sr Living Inc.       COM              112463104    20659  1187997 SH       SOLE                   807100            380897
+                                                               252    14494 SH       OTHER   02 04           14494
+Brookfield Asset Mgmt Inc. Cla COM              112585104    18629   677913 SH       SOLE                   634013             43900
+                                                                49     1800 SH       OTHER   02               1800
+Brookfield Infrast Partners LP COM              G16252101      334    12070 SH       SOLE                    12070
+Buckeye Technologies Inc.      COM              118255108    94417  2823474 SH       SOLE                  2329374            494100
+                                                               722    21590 SH       OTHER   02 04           21590
+Chesapeake Energy Corp.        COM              165167107     4059   182115 SH       SOLE                   182115
+Chevron Corp                   COM              166764100      220     2066 SH       SOLE                     2066
+Corrections Corp of America    COM              22025Y407    50599  2483975 SH       SOLE                  2081430            402545
+                                                               363    17827 SH       OTHER   02 04           17827
+Exelis Inc                     COM              30162A108      853    94215 SH       SOLE                    67915             26300
+FedEx Corp.                    COM              31428X106    25511   305490 SH       SOLE                   285090             20400
+                                                                66      785 SH       OTHER   02                785
+Fifth Street Finance           COM              31678A103      286    29875 SH       SOLE                    29875
+First Cash Financial Services  COM              31942D107    10887   310250 SH       SOLE                   210670             99580
+                                                               126     3597 SH       OTHER   02 04            3597
+First Horizon Natl Corp        COM              320517105      426    53253 SH       SOLE                    53253
+Fiserv Inc                     COM              337738108    34076   580120 SH       SOLE                   555020             25100
+                                                                79     1340 SH       OTHER   02               1340
+Flowserve Corp                 COM              34354P105    26658   268405 SH       SOLE                   254805             13600
+                                                                24      240 SH       OTHER   02                240
+Forest Oil Corp                COM              346091705    18421  1359520 SH       SOLE                   907760            451760
+                                                               221    16345 SH       OTHER   02 04           16345
+Forestar Group Inc.            COM              346233109    19352  1279017 SH       SOLE                   858525            420492
+                                                               229    15130 SH       OTHER   02 04           15130
+Frontier Communications Corp   COM              35906A108      126    24480 SH       SOLE                    24480
+                                                                11     2200 SH       OTHER   02               2200
+Gannett Inc.                   COM              364730101    43812  3276906 SH       SOLE                  3151806            125100
+                                                               100     7495 SH       OTHER   02               7495
+Gardner Denver Inc             COM              365558105    79137  1026948 SH       SOLE                   868152            158796
+                                                               614     7965 SH       OTHER   02 04            7965
+Haynes International Inc       COM              420877201    26197   479804 SH       SOLE                   329180            150624
+                                                               376     6888 SH       OTHER   02 04            6888
+HCC Insurance Holdings Inc.    COM              404132102    32338  1175918 SH       SOLE                  1127218             48700
+                                                               106     3855 SH       OTHER   02               3855
+Howard Hughes Corp             COM              44267D107    29840   675580 SH       SOLE                   536976            138604
+                                                               230     5199 SH       OTHER   02 04            5199
+HSN, Inc                       COM              404303109    77561  2139031 SH       SOLE                  1617791            521240
+                                                               743    20493 SH       OTHER   02 04           20493
+Hugoton Rlty Tr                COM              444717102      197    10450 SH       SOLE                    10450
+Infinity Property & Casualty C COM              45665Q103    51102   900630 SH       SOLE                   711655            188975
+                                                               516     9097 SH       OTHER   02 04            9097
+International Business Machine COM              459200101      410     2230 SH       SOLE                     2230
+ITT Corp                       COM              450911201     3687   190727 SH       SOLE                   177577             13150
+                                                                 4      212 SH       OTHER   02                212
+Jarden Corp.                   COM              471109108    25585   856248 SH       SOLE                   579260            276988
+                                                               307    10262 SH       OTHER   02 04           10262
+JC Penney Inc.                 COM              708160106    27499   782331 SH       SOLE                   744731             37600
+                                                                42     1200 SH       OTHER   02               1200
+Kinder Morgan Management LLC   COM              49455U100     1451    18480 SH       SOLE                    18480
+Kraft Foods Inc.               COM              50075N104      247     6619 SH       SOLE                     6619
+Liberty Interactive Corp Class COM              53071M104    22608  1394281 SH       SOLE                  1296181             98100
+                                                                62     3850 SH       OTHER   02               3850
+Liquidity Services Inc         COM              53635B107    24560   665585 SH       SOLE                   448385            217200
+                                                               306     8303 SH       OTHER   02 04            8303
+MacQuarie Infrastructure Co LL COM              55608B105      201     7200 SH       SOLE                     7200
+ManTech Intl Corp Class A      COM              564563104    46616  1492187 SH       SOLE                  1204812            287375
+                                                               394    12614 SH       OTHER   02 04           12614
+Medidata Solutions Inc         COM              58471A105    34473  1584965 SH       SOLE                  1062365            522600
+                                                               407    18711 SH       OTHER   02 04           18711
+Mettler Toledo International   COM              592688105    31460   212988 SH       SOLE                   166545             46443
+                                                               297     2012 SH       OTHER   02 04            2012
+MSC Industrial Direct Co-A     COM              553530106    87737  1226237 SH       SOLE                  1023927            202310
+                                                               648     9051 SH       OTHER   02 04            9051
+MTS Systems Corp               COM              553777103    25319   621330 SH       SOLE                   425795            195535
+                                                               279     6851 SH       OTHER   02 04            6851
+Oceaneering Intl., Inc.        COM              675232102     1141    24740 SH       SOLE                    24740
+Penn Virginia Resource Partner COM              707884102      512    20042 SH       SOLE                    20042
+Philip Morris International In COM              718172109      816    10400 SH       SOLE                    10400
+Plains Exploration & Productio COM              726505100    22422   610626 SH       SOLE                   576826             33800
+                                                                21      560 SH       OTHER   02                560
+Pool Corp.                     COM              73278L105    12639   419902 SH       SOLE                   304160            115742
+                                                               157     5217 SH       OTHER   02 04            5217
+Regions Financial Corp         COM              7591EP100      115    26682 SH       SOLE                    26682
+Republic Services Inc          COM              760759100    28629  1039168 SH       SOLE                   996868             42300
+                                                                68     2465 SH       OTHER   02               2465
+Rush Enterprises Inc Class A   COM              781846209    28681  1370962 SH       SOLE                   915170            455792
+                                                               352    16814 SH       OTHER   02 04           16814
+Scripps E W Co. Class A        COM              811054402    11512  1437255 SH       SOLE                   958855            478400
+                                                               142    17774 SH       OTHER   02 04           17774
+Scripps Networks Interactive C COM              811065101    33692   794243 SH       SOLE                   764443             29800
+                                                                95     2250 SH       OTHER   02               2250
+Service Corp International     COM              817565104    17001  1596329 SH       SOLE                  1470929            125400
+                                                                91     8500 SH       OTHER   02               8500
+Sirius XM Radio Inc            COM              82967N108    18611 10225639 SH       SOLE                  9549939            675700
+                                                                39    21500 SH       OTHER   02              21500
+Stancorp Financial Group       COM              852891100    25048   681570 SH       SOLE                   531045            150525
+                                                               225     6111 SH       OTHER   02 04            6111
+Stewart Enterprises Inc Cl A   COM              860370105    34741  6031414 SH       SOLE                  4674214           1357200
+                                                               286    49628 SH       OTHER   02 04           49628
+Tesco Corp.                    COM              88157K101    17022  1346715 SH       SOLE                   896890            449825
+                                                               208    16436 SH       OTHER   02 04           16436
+Thermo Fisher Scientific Inc.  COM              883556102    34662   770791 SH       SOLE                   735691             35100
+                                                               119     2650 SH       OTHER   02               2650
+Thermon Group Holding Inc      COM              88362T103    10689   606655 SH       SOLE                   407605            199050
+                                                               118     6679 SH       OTHER   02 04            6679
+Tupperware Brands Corp.        COM              899896104      305     5450 SH       SOLE                     5450
+UniFirst Corp                  COM              904708104    28962   510434 SH       SOLE                   344809            165625
+                                                               342     6022 SH       OTHER   02 04            6022
+Walgreen Co.                   COM              931422109    17960   543262 SH       SOLE                   509162             34100
+                                                                58     1750 SH       OTHER   02               1750
+Walter Energy Inc              COM              93317Q105    54005   891764 SH       SOLE                   733526            158238
+                                                               354     5842 SH       OTHER   02 04            5842
+Walter Investment Management C COM              93317W102    48541  2366722 SH       SOLE                  1829117            537605
+                                                               422    20597 SH       OTHER   02 04           20597
+Weatherford International LTD  COM              H27013103    16904  1154621 SH       SOLE                  1099421             55200
+                                                                80     5440 SH       OTHER   02               5440
+Western Union Co               COM              959802109    25141  1376834 SH       SOLE                  1317034             59800
+                                                                71     3885 SH       OTHER   02               3885
+Willis Group Holdings Public L COM              G96666105    28410   732214 SH       SOLE                   693814             38400
+                                                                72     1855 SH       OTHER   02               1855
+Xylem Inc                      COM              98419M100     7637   297265 SH       SOLE                   270965             26300
+                                                                11      425 SH       OTHER   02                425
+Stewart Enterprises Inc        CNV              860370AK1      524   560000 PRN      SOLE                   560000
+iShares - Russell 2000                          464287655      738 10000.000SH       SOLE                10000.000
+iShares - Russell 2000 Value                    464287630     6824 103961.000SH      SOLE                22191.000         81770.000
+iShares - Russell Top 200                       464289446      653 22400.000SH       SOLE                22400.000
+iShares Dow Jones Select Divid                  464287168     2113 39300.000SH       SOLE                39300.000
+iShares Gold Trust                              464285105      289 19000.000SH       SOLE                19000.000
+iShares Russell Midcap Value                    464287473      352 8100.000 SH       SOLE                                   8100.000
+Ensco PLC Sponsored ADR                         29358Q109    18766   399954 SH       SOLE                   382054             17900
+                                                                17      355 SH       OTHER   02                355
+Shire PLC ADR                                   82481R106    52125   501682 SH       SOLE                   481182             20500
+                                                               193     1860 SH       OTHER   02               1860
+</TABLE>
+</TEXT>
+</DOCUMENT>

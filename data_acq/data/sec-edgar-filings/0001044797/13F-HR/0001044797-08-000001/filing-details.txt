@@ -1,0 +1,145 @@
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>inftable.txt
+<DESCRIPTION>SCHEDULE 13F TABLE
+<TEXT>
+<TABLE>
+                                                                  FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER          VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS     SOLE    SHARED    NONE
+------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+<S>                            <C>              <C>       <C>      <C>      <C> <C>  <C>     <C>          <C>      <C>      <C>
+Acxiom Corp                    COM              005125109     8806   750715 SH       SOLE                   745815              4900
+                                                               248    21129 SH       OTHER   02 04           21129
+Advanced Auto Parts            COM              00751Y106    11169   294000 SH       SOLE                   294000
+Alberto Culver Co              COM              013078100      436    17752 SH       SOLE                    17752
+Alpharma Inc Class A           COM              020813101    22833  1133140 SH       SOLE                  1126640              6500
+                                                               462    22930 SH       OTHER   02 04           22930
+Altria Group Inc.              COM              02209S103     1051    13900 SH       SOLE                    13900
+American Capital Strategies    COM              024937104     1412    42845 SH       SOLE                    42845
+American Internationall Group  COM              026874107      204     3491 SH       SOLE                     3491
+Ares Capital Corp              COM              04010L103     1238    84600 SH       SOLE                    84600
+AutoZone, Inc.                 COM              053332102    33208   276940 SH       SOLE                   276640               300
+                                                               216     1800 SH       OTHER   02               1800
+BARRICK GOLD CORP COM          COM              067901108      505    12002 SH       SOLE                    12002
+BED BATH & BEYOND INC COM      COM              075896100     2939   100000 SH       SOLE                   100000
+Best Buy Inc Com               COM              086516101     7213   137000 SH       SOLE                   137000
+Bristol-Myers Squibb Co.       COM              110122108      815    30736 SH       SOLE                    30736
+Brookdale Sr Living Inc Com    COM              112463104      395    13900 SH       SOLE                    13900
+Brookfield Asset Management In COM              112585104     5487   153828 SH       SOLE                   152941               887
+Buckeye Technologies Inc.      COM              118255108    31209  2496709 SH       SOLE                  2483759             12950
+                                                               630    50382 SH       OTHER   02 04           50382
+Burlington Northern Santa Fe C COM              12189T104     8489   102000 SH       SOLE                   102000
+Cabot Oil & Gas Corp Com       COM              127097103     1993    49360 SH       SOLE                    49360
+Canadian Natl Railway Co.      COM              136375102    10841   231000 SH       SOLE                   231000
+CBS Corp New Cl B              COM              124857202    10892   399705 SH       SOLE                   398880               825
+                                                               141     5175 SH       OTHER   02               5175
+Cedar Fair LP*                 COM              150185106     4061   192209 SH       SOLE                   192209
+Chesapeake Energy Corp         COM              165167107    18619   474980 SH       SOLE                   473870              1110
+                                                               200     5090 SH       OTHER   02               5090
+CIT Group Inc.                 COM              125581108     1167    48565 SH       SOLE                    48565
+Citigroup Inc.                 COM              172967101      238     8080 SH       SOLE                     8080
+Citizens Communications Co     COM              17453B101     2655   208584 SH       SOLE                   208584
+                                                                28     2200 SH       OTHER   02               2200
+Colgate Palmolive Co           COM              194162103     1286    16500 SH       SOLE                    16500
+Compton Petroleum Corp         COM              204940100     5461   593605 SH       SOLE                   587030              6575
+                                                               210    22790 SH       OTHER   02 04           22790
+Core Laboratories N V Com      COM              N22717107    16710   133979 SH       SOLE                   133134               845
+                                                               373     2989 SH       OTHER   02 04            2989
+CVS Caremark Corporation       COM              126650100    19875   500000 SH       SOLE                   500000
+Darwin Professional Underwrite COM              237502109    12646   523209 SH       SOLE                   518609              4600
+                                                               391    16175 SH       OTHER   02 04           16175
+FedEx Corporation              COM              31428X106    23389   262300 SH       SOLE                   262300
+Ferrellgas Partners L.P.       COM              315293100      669    30550 SH       SOLE                    30550
+First Horizon Natl Corp Com    COM              320517105     1191    65622 SH       SOLE                    65622
+Ford Motor Co                  COM              345370860     6212   923000 SH       SOLE                   923000
+Gardner Denver Inc             COM              365558105    39965  1211066 SH       SOLE                  1204166              6900
+                                                               938    28435 SH       OTHER   02 04           28435
+Gartner Inc.                   COM              366651107    29438  1676425 SH       SOLE                  1667750              8675
+                                                               548    31220 SH       OTHER   02 04           31220
+General Electric Co.           COM              369604103      712    19200 SH       SOLE                    19200
+Geomet Inc.                    COM              37250U201     4968   955330 SH       SOLE                   947055              8275
+                                                               152    29240 SH       OTHER   02 04           29240
+Grant Prideco Inc              COM              38821G101    11195   201681 SH       SOLE                   201131               550
+                                                                68     1218 SH       OTHER   02               1218
+Haynes International Inc       COM              420877201    16221   233390 SH       SOLE                   231895              1495
+                                                               421     6060 SH       OTHER   02 04            6060
+HCC Insurance Holdings Inc.    COM              404132102    15346   535090 SH       SOLE                   533840              1250
+                                                               139     4835 SH       OTHER   02               4835
+Home Depot Inc. Com            COM              437076102    11719   435000 SH       SOLE                   435000
+Hugoton Rlty Tr                COM              444717102      563    25100 SH       SOLE                    25100
+Infinity Property & Casualty C COM              45665Q103    26398   730631 SH       SOLE                   726381              4250
+                                                               580    16045 SH       OTHER   02 04           16045
+InsCorp                        COM              003892284        0    15000 SH       SOLE                    15000
+Intl. Business Machines        COM              459200101     1646    15231 SH       SOLE                    15231
+IPIX Corp Com                  COM              44982L103        0    38793 SH       SOLE                    38793
+Ishares - Russell 2000 Value   COM              464287630     3006    42646 SH       SOLE                    40846              1800
+J C Penney Company Inc.        COM              708160106    35053   796840 SH       SOLE                   796260               580
+                                                               122     2770 SH       OTHER   02               2770
+Jarden Corp                    COM              471109108    15213   644350 SH       SOLE                   640700              3650
+                                                               326    13820 SH       OTHER   02 04           13820
+Kaydon Corp                    COM              486587108    37464   686910 SH       SOLE                   683460              3450
+                                                               635    11637 SH       OTHER   02 04           11637
+Kinder Morgan Management       COM              49455U100     2487    46972 SH       SOLE                    46972
+Kraft Foods Inc.               COM              50075N104      275     8426 SH       SOLE                     8426
+Kroger Co.                     COM              501044101     5342   200000 SH       SOLE                   200000
+Liberty Media Hldg Corp Int Co COM              53071M104    12888   675450 SH       SOLE                   675450
+Lowe's Co.                     COM              548661107    11423   505000 SH       SOLE                   505000
+Lubrizol Corp                  COM              549271104    13802   254835 SH       SOLE                   254185               650
+                                                               162     3000 SH       OTHER   02               3000
+MacQuarie Infrastructure Co LL COM              55608B105     2216    54680 SH       SOLE                    54680
+Macy's Inc.                    COM              55616P104    20639   797800 SH       SOLE                   797800
+MDS Inc                        COM              55269P302    33837  1739682 SH       SOLE                  1730832              8850
+                                                               644    33110 SH       OTHER   02 04           33110
+MSC Industrial Direct Co-A     COM              553530106    24405   603031 SH       SOLE                   599431              3600
+                                                               446    11025 SH       OTHER   02 04           11025
+MTS Sys Corp. Com.             COM              553777103     9671   226658 SH       SOLE                   224758              1900
+                                                               299     7015 SH       OTHER   02 04            7015
+Municipal Mortgage and Equity  COM              62624B101     1623   109390 SH       SOLE                   109390
+Norfolk Southern Corp Com      COM              655844108    12509   248000 SH       SOLE                   248000
+Oceaneering Intl., Inc.        COM              675232102    25162   373605 SH       SOLE                   371280              2325
+                                                               457     6785 SH       OTHER   02 04            6785
+Parker Hannifin Corp           COM              701094104     4544    60331 SH       SOLE                    60331
+Penn Virginia GP Holdings L P* COM              70788P105     1900    66330 SH       SOLE                    66330
+Pool Corp                      COM              73278L105     2560   129105 SH       SOLE                   127965              1140
+                                                                83     4200 SH       OTHER   02 04            4200
+Prospect Capital Corporation   COM              74348T102      793    60756 SH       SOLE                    60756
+RCN Corp Com New               COM              749361200    29465  1889991 SH       SOLE                  1878641             11350
+                                                               656    42080 SH       OTHER   02 04           42080
+Regions Financial Corp.        COM              7591EP100      805    34058 SH       SOLE                    34058
+Rush Enterprises Inc Class A   COM              781846209    11473   631081 SH       SOLE                   625756              5325
+                                                               337    18535 SH       OTHER   02 04           18535
+Schering Plough Corp           COM              806605101      734    27562 SH       SOLE                    27562
+Scripps E W Co Ohio Cl A       COM              811054204     4846   107655 SH       SOLE                   107655
+Sears Hldgs Corp Com           COM              812350106     3572    35000 SH       SOLE                    35000
+Shire PLC Sponsored ADR        COM              82481R106    16899   245095 SH       SOLE                   244525               570
+                                                               181     2620 SH       OTHER   02               2620
+Spherion Corporation           COM              848420105     6077   834749 SH       SOLE                   827649              7100
+                                                               182    24936 SH       OTHER   02 04           24936
+Stewart Enterprises Inc Cl A   COM              860370105    28390  3189912 SH       SOLE                  3166562             23350
+                                                               750    84280 SH       OTHER   02 04           84280
+Suntrust Bks Inc Com           COM              867914103      770    12328 SH       SOLE                    12328
+Synovus Financial Corp.        COM              87161C105      767    31861 SH       SOLE                    15406             16455
+Target Corp Com                COM              87612E106    14405   288100 SH       SOLE                   288100
+Tesco Corp Com                 COM              88157K101     5328   185830 SH       SOLE                   183630              2200
+                                                               208     7240 SH       OTHER   02 04            7240
+TEXAS INSTRS INC COM           COM              882508104      334    10000 SH       SOLE                    10000
+The St. Joe Company            COM              790148100      213     6000 SH       SOLE                     6000
+Thermo Fisher Scientific Inc.  COM              883556102    27292   473160 SH       SOLE                   472410               750
+                                                               353     6120 SH       OTHER   02               6120
+Toyota Motor Corp Sponsored Ad COM              892331307     4088    38500 SH       SOLE                    38500
+U Store It Trust *             COM              91274F104      669    73075 SH       SOLE                    73075
+United Parcel Service Cl B     COM              911312106    12730   180000 SH       SOLE                   180000
+Valero Energy                  COM              91913Y100      420     6000 SH       SOLE                     6000
+Wal Mart Store Inc.            COM              931142103    41037   863400 SH       SOLE                   863400
+Walgreen Co.                   COM              931422109    12071   317000 SH       SOLE                   317000
+Walter Industries Inc.         COM              93317Q105    45926  1278205 SH       SOLE                  1270905              7300
+                                                               959    26690 SH       OTHER   02 04           26690
+Weatherford International LTD  COM              G95089101    25288   368629 SH       SOLE                   367779               850
+                                                               373     5440 SH       OTHER   02               5440
+XTO Energy Inc.                COM              98385X106     4208    81923 SH       SOLE                    81923
+CIT Holdings Inc 7.75% Convert PFD CV           125581405      621    32950 SH       SOLE                    32950
+</TABLE>
+</TEXT>
+</DOCUMENT>

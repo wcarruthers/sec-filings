@@ -1,0 +1,331 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bqq9YEeLFp4FuXhE2lId8YmrHuoSpgMXO7p1W3wBoDTBjlNWUvbXKVNwu8HCN6XF
+ 3tWbVqz1QsqXP3nB4gbs6w==
+
+<SEC-DOCUMENT>0001044797-05-000005.txt : 20050204
+<SEC-HEADER>0001044797-05-000005.hdr.sgml : 20050204
+<ACCEPTANCE-DATETIME>20050204163113
+ACCESSION NUMBER:		0001044797-05-000005
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20050204
+DATE AS OF CHANGE:		20050204
+EFFECTIVENESS DATE:		20050204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEW SOUTH CAPITAL MANAGEMENT INC
+		CENTRAL INDEX KEY:			0001044797
+		IRS NUMBER:				621237220
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-03425
+		FILM NUMBER:		05577549
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 RIDGEWAY LOOP ROAD
+		STREET 2:		SUITE 444
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38120
+		BUSINESS PHONE:		9017615561
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 RIDGEWAY LOOP RD
+		STREET 2:		SUITE 444
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>inftable.txt
+<DESCRIPTION>SCHEDULE 13F-HR
+<TEXT>
+<TABLE>
+                                                                  FORM 13F INFORMATION TABLE
+                                                           VALUE   SHARES/  SH/ PUT/ INVSTMT    OTHER          VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP   (x$1000) PRN AMT  PRN CALL DSCRETN   MANAGERS     SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+<S>                            <C>              <C>       <C>      <C>      <C> <C>  <C>     <C>          <C>      <C>      <C>
+21st Century Holding Co        COM              90136Q100      173    11850 SH       SOLE                    11850
+Advo Inc.                      COM              007585102    21782   610986 SH       SOLE                   608986              2000
+                                                               623    17480 SH       OTHER   04 02           17480
+Alberto Culver Co.             COM              013068101     2195    45197 SH       SOLE                    43697              1500
+Albertsons, Inc.               COM              013104104     5397   226000 SH       SOLE                   226000
+Alcan Inc                      COM              013716105      221     4500 SH       SOLE                     4500
+Altria Group Inc Com           COM              02209S103      910    14900 SH       SOLE                    14900
+American Capital Strategies    COM              024937104      682    20450 SH       SOLE                    20450
+American Financial Realty Trus COM              02607P305    21400  1322619 SH       SOLE                  1318619              4000
+                                                               435    26905 SH       OTHER   04 02           26905
+American Intl. Group           COM              026874107      229     3491 SH       SOLE                     3491
+Amsouth Bancorporation         COM              032165102      867    33462 SH       SOLE                    33462
+Arrow Electronics              COM              042735100    19855   817070 SH       SOLE                   815070              2000
+                                                               367    15090 SH       OTHER   04 02           15090
+AutoZone, Inc.                 COM              053332102    34381   376532 SH       SOLE                   346907             29625
+                                                               191     2095 SH       OTHER   02               2095
+Baldwin & Lyons Inc Class B    COM              057755209     1568    58523 SH       SOLE                    58523
+Bank of America Corp           COM              060505104      689    14666 SH       SOLE                    14666
+Best Buy Inc Com               COM              086516101     9983   168000 SH       SOLE                   168000
+Big Lots Inc                   COM              089302103      194    16000 SH       SOLE                    16000
+Black & Decker                 COM              091797100    13991   158400 SH       SOLE                   118000             40400
+Bristol-Myers Squibb Co.       COM              110122108      569    22200 SH       SOLE                    22200
+Buckeye Partners L.P. *        COM              118230101      296     7000 SH       SOLE                     7000
+Buckeye Technologies Corp.     COM              118255108    40333  3100170 SH       SOLE                  3091170              9000
+                                                               801    61535 SH       OTHER   04 02           61535
+CIT Group Inc.                 COM              125581108     5530   120680 SH       SOLE                   120680
+CPI Corp.                      COM              125902106     7070   520264 SH       SOLE                   520264
+                                                               154    11365 SH       OTHER   04              11365
+Cabo Mining Enterprises        COM              12687b100       48    66880 SH       SOLE                    66880
+Cabot Oil & Gas                COM              127097103     3465    78300 SH       SOLE                    76500              1800
+Capital Automotive REIT*       COM              139733109     5437   153050 SH       SOLE                   153050
+                                                                36     1000 SH       OTHER   02               1000
+Capital One Financal Corp      COM              14040H105      623     7400 SH       SOLE                     7400
+Career Education Corp          COM              141665109    11586   289650 SH       SOLE                   288150              1500
+                                                               138     3440 SH       OTHER   02               3440
+Cedar Fair, L.P. *             COM              150185106     9753   296447 SH       SOLE                   293447              3000
+Citigroup Inc.                 COM              172967101      481     9980 SH       SOLE                     9980
+Citizens Communications Co.    COM              17453B101     6713   486820 SH       SOLE                   486820
+                                                                30     2200 SH       OTHER   02               2200
+Colgate-Palmolive              COM              194162103     1021    19950 SH       SOLE                    19950
+EBAY Inc                       COM              278642103     3642    31305 SH       SOLE                                      31305
+Echostar Communications Class  COM              278762109    15691   471915 SH       SOLE                   469915              2000
+                                                               147     4415 SH       OTHER   02               4415
+FedEx Corporation              COM              31428X106    29274   297225 SH       SOLE                   218200             79025
+Ferrellgas Partners LP *       COM              315293100      720    35450 SH       SOLE                    35450
+First Horizon National Corpora COM              320517105     3140    72832 SH       SOLE                    72832
+Fisher Scientific Intl         COM              338032204    38107   610881 SH       SOLE                   609481              1400
+                                                               810    12985 SH       OTHER   04 02           12985
+Ford Motor Co                  COM              345370860     6925   473000 SH       SOLE                   473000
+Freddie Mac                    COM              313400301      781    10600 SH       SOLE                    10600
+Friedman Billings Rmsy Cl A    COM              358434108      817    42125 SH       SOLE                    42125
+Gallagher Arthur J & Co        COM              363576109    19777   608523 SH       SOLE                   606523              2000
+                                                               180     5530 SH       OTHER   02               5530
+Gardner Denver Inc.            COM              365558105    27570   759717 SH       SOLE                   757517              2200
+                                                               777    21420 SH       OTHER   04 02           21420
+Gartner Inc. Cl A              COM              366651107     7459   598670 SH       SOLE                   598670
+                                                               199    15945 SH       OTHER   04 02           15945
+General Electric               COM              369604103      811    22214 SH       SOLE                    22214
+Grant Prideco Inc              COM              38821G101    13034   650082 SH       SOLE                   650082
+                                                                58     2898 SH       OTHER   02               2898
+Gulf Island Fabrication Inc    COM              402307102     7432   340469 SH       SOLE                   340469
+                                                               342    15645 SH       OTHER   04              15645
+Harley Davidson Inc.           COM              412822108    13802   227200 SH       SOLE                   162000             65200
+Home Depot, Inc.               COM              437076102    41230   964675 SH       SOLE                   775000            189675
+IPIX Corporation               COM              44982l103     3000   517246 SH       SOLE                   517246
+Infinity Property & Casualty C COM              45665q103    24601   698903 SH       SOLE                   698903
+                                                               710    20170 SH       OTHER   04 02           20170
+Intl. Business Machines        COM              459200101     1598    16209 SH       SOLE                    16209
+Ishares Tr Rusl 2000 Valu      COM              464287630      405     2100 SH       OTHER   04               2100
+J. C. Penney Co., Inc          COM              708160106    48809  1178964 SH       SOLE                  1038114            140850
+                                                               173     4180 SH       OTHER   02               4180
+Journal Register Co.           COM              481138105    17588   909858 SH       SOLE                   909858
+                                                               429    22190 SH       OTHER   04 02           22190
+Kaydon Corp.                   COM              486587108    30000   908533 SH       SOLE                   906533              2000
+                                                               608    18425 SH       OTHER   04 02           18425
+Kinder Morgan Energy, L. P.*   COM              494550106      320     7228 SH       SOLE                     7228
+Kinder Morgan Management LLC   COM              49455U100     1030    25316 SH       SOLE                    25316
+Liberty Media Corp             COM              530718105     9727   885888 SH       SOLE                   878888              7000
+                                                                93     8500 SH       OTHER   02               8500
+Lowe's Co.                     COM              548661107     4740    82300 SH       SOLE                    82300
+Luminent Mortgage Captial, Inc COM              550278303      314    26400 SH       SOLE                    26400
+MSC Industrial Direct Co-A     COM              553530106     8863   246325 SH       SOLE                   246325
+                                                               371    10325 SH       OTHER   04              10325
+McCormick & Co Inc Com Non Vtg COM              579780206      203     5260 SH       SOLE                     5260
+Metris Companies Inc           COM              591598107    53945  4230947 SH       SOLE                  4220947             10000
+                                                               970    76080 SH       OTHER   04 02           76080
+Mettler-Toledo Intl            COM              592688105    16527   322100 SH       SOLE                   322100
+                                                               396     7710 SH       OTHER   04 02            7710
+Municipal Mortgage & Equity *  COM              62624B101     2531    93000 SH       SOLE                    93000
+New Plan Excel Realty Trust*   COM              648053106      616    22740 SH       SOLE                    22740
+                                                                28     1032 SH       OTHER   02               1032
+Norfolk Southern               COM              655844108     3369    93100 SH       SOLE                      450             92650
+Oceaneering Intl., Inc.        COM              675232102    22244   596040 SH       SOLE                   596040
+                                                               589    15770 SH       OTHER   04 02           15770
+Ocwen Financial Corp           COM              675746101    18201  1903889 SH       SOLE                  1897389              6500
+                                                               587    61405 SH       OTHER   04 02           61405
+Old Republic Int'l.            COM              680223104     1980    78246 SH       SOLE                    78246
+Pfizer Co.                     COM              717081103      204     7578 SH       SOLE                     7578
+Pioneer Natural Resources Co   COM              723787107    26266   748311 SH       SOLE                   746637              1674
+                                                               482    13737 SH       OTHER   04 02           13737
+Placer Dome, Inc.              COM              725906101      310    16447 SH       SOLE                    16447
+Plum Creek Timber Co Inc REIT* COM              729251108     2353    61200 SH       SOLE                    61200
+ProAssurance Corporation       COM              74267C106      256     6538 SH       SOLE                     6538
+Pulitzer Inc                   COM              745769109      665    10250 SH       SOLE                    10250
+Ralcorp Hldgs Inc New Com      COM              751028101     8917   212660 SH       SOLE                   212660
+                                                               388     9255 SH       OTHER   04               9255
+Regions Financial Corp.        COM              7591EP100      511    14357 SH       SOLE                    14357
+Rent-A-Center Inc.             COM              76009N100    28241  1065680 SH       SOLE                   925030            140650
+                                                               119     4500 SH       OTHER   02               4500
+Rockwell Automation Inc.       COM              773903109      258     5200 SH       SOLE                     5200
+Ross Stores Inc                COM              778296103    10335   358000 SH       SOLE                   358000
+Safeco Corp Com                COM              786429100      543    10400 SH       SOLE                    10400
+Saks, Inc.                     COM              79377W108      203    14000 SH       SOLE                    14000
+Saxon Capital Inc. REIT        COM              80556T106      391    16300 SH       SOLE                    16300
+Schering Plough Corp.          COM              806605101      748    35842 SH       SOLE                    35842
+Scripps Co. Class A            COM              811054204     5624   116490 SH       SOLE                   116490
+Shire Pharmaceuticals-SP ADR   COM              82481R106    24789   775882 SH       SOLE                   773382              2500
+                                                               202     6310 SH       OTHER   02               6310
+Shopko Stores                  COM              824911101    11375   608930 SH       SOLE                   608930
+                                                               389    20835 SH       OTHER   04              20835
+Spherion Corporation           COM              848420105     8070   960670 SH       SOLE                   960670
+                                                               305    36355 SH       OTHER   04              36355
+Sun Communities Inc.*          COM              866674104      604    15000 SH       SOLE                    15000
+Suntrust Banks, Inc.           COM              867914103      993    13442 SH       SOLE                    13442
+Synovus Financial Corp.        COM              87161C105     1001    35030 SH       SOLE                    35030
+TBC Corp New Com               COM              872183108    10360   372660 SH       SOLE                   372660
+                                                               519    18655 SH       OTHER   04              18655
+Target Corp                    COM              87612E106    29307   564350 SH       SOLE                   442000            122350
+Texas Instruments              COM              882508104      328    13325 SH       SOLE                    13325
+Toyota Motor Corp Sponsored AD COM              892331307     9826   120025 SH       SOLE                    78500             41525
+Toys R Us                      COM              892335100     5337   260730 SH       SOLE                   260730
+Tuesday Morning Corp           COM              899035505    20662   674565 SH       SOLE                   553215            121350
+                                                               350    11425 SH       OTHER   04              11425
+Tupperware Corporation         COM              899896104      934    45100 SH       SOLE                    45100
+Union Pacific Corp.            COM              907818108    10625   158000 SH       SOLE                   158000
+United Parcel Service Cl B     COM              911312106    23160   271000 SH       SOLE                   271000
+Universal Health Services Cl B COM              913903100    13833   310849 SH       SOLE                   309649              1200
+                                                               146     3290 SH       OTHER   02               3290
+Valero Energy                  COM              91913Y100      268     5900 SH       SOLE                     5900
+Vesta Insurance Group Inc      COM              925391104       74    20000 SH       SOLE                    20000
+Wal-Mart Stores                COM              931142103    58822  1113636 SH       SOLE                   983436            130200
+Walgreen Co.                   COM              931422109    12739   332000 SH       SOLE                   332000
+Weatherford International, Ltd COM              G95089101    18083   352492 SH       SOLE                   352492
+                                                               171     3340 SH       OTHER   02               3340
+Western Gas Resource Inc.      COM              958259103     6648   227280 SH       SOLE                   227280
+                                                               265     9070 SH       OTHER   04               9070
+XTO Energy Inc.                COM              98385X106     8033   227048 SH       SOLE                   227048
+Young Broadcasting Class A     COM              987434107    16350  1548302 SH       SOLE                  1548302
+                                                               318    30120 SH       OTHER   04 02           30120
+Credit Depot Warehouse Lending CNV              credit200        0    44022 PRN      SOLE                    44022
+Toys R Us Inc 6.25% Pfd        PFD CV           892335209      482     9100 SH       SOLE                     9100
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>infcover.txt
+<DESCRIPTION>SCHEDULE 13F-HR COVER AND SUMMARY
+<TEXT>
+UNITED STATES
+SECURTIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+FORM 13F
+
+Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter
+Ended  December 31, 2004
+
+Check here if Amendment [ ] ; Amendment Number: ____
+This Amendment (Check only one): [ ] is a restatement
+                                 [ ] adds new holdings entries
+
+Institutional Investment Manager Filing this Report:
+
+NewSouth Capital Management, Inc.
+1100 Ridgeway Loop Road, Suite 444, Memphis, TN 38120
+
+13F File Number: 28-1652
+
+The institutional investment manager submitting this
+report and the person by whom it is signed hereby represent
+that the person signing the report is authorized to
+submit it, that all information contained herein is true,
+correct and complete, and that it is understood
+that all required items, statements, schedules, lists,
+and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   David M. Newman
+Title:  Vice President
+Phone:  (901) 761-5561
+
+Signature, Place, and Date of Signing:
+
+
+ _____________________________ Memphis, TN     February 4, 2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report Type (Check only one):
+
+[x] 13F HOLDINGS REPORT.
+(Check here if all holdings of this reporting manager are
+reported in this report.)
+
+[  ] 13F NOTICE.
+(Check here if no holdings reported are in this report,
+and all holdings are reported by other reporting manager(s).)
+
+[ ] 13F COMBINATION REPORT.
+(Check here if a portion of the holdings for this reporting
+manager are reported in this report and a portion are
+reported by other reporting manager(s).)
+
+The Managers identified on following Summary Page are accounts
+placed with us through the Morgan Keegan Preferred Managers Program
+and Thomas Weisel Partners LLC Asset Management Consulting Program.
+Although discretionary responsibility for the accounts is with us,
+Morgan Keegan and Thomas Weisel Partners LLC
+retain the responsibility for reporting these securities on their
+13F if the size of a particular holding triggers 13F filing
+requirements.
+
+<PAGE>
+
+FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:	2
+
+Form 13F Information Table Entry Total:      151
+
+Form 13F Information Table Value Total:   $1,120,689,000
+
+
+List of Other Included Managers:
+
+No. 13F File Number    Name
+
+
+2	 Morgan Keegan Preferred Managers Program
+
+4	 Thomas Weisel Partners LLC Asset Management
+       Consulting Program
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

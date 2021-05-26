@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0000089014</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2015</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2015</reportCalendarOrQuarter>
+      <filingManager>
+        <name>SENTRY INVESTMENT MANAGEMENT LLC</name>
+        <address>
+          <com:street1>STEVENS INVEST MANGT</com:street1>
+          <com:street2>1800 NORTH POINT DRIVE</com:street2>
+          <com:city>STEVENS POINT</com:city>
+          <com:stateOrCountry>WI</com:stateOrCountry>
+          <com:zipCode>54481</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-00870</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Chris Meadows</name>
+      <title>Assistant Vice President - Equity Investments</title>
+      <phone>715-346-6374</phone>
+      <signature>Chris Meadows</signature>
+      <city>Stevens Point</city>
+      <stateOrCountry>WI</stateOrCountry>
+      <signatureDate>12-31-2015</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>507</tableEntryTotal>
+      <tableValueTotal>2165991</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
