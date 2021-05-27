@@ -131,3 +131,4 @@ dmypy.json
 #sec filings
 data/sec_edgar_filings/
 data_acq/data/sec_edgar_filings/
+data_acq/data/sec_edgar_filings/*
