@@ -5,6 +5,7 @@ import os
 import bs4
 import datetime
 import pandas as pd
+from sqlalchemy import create_engine
 
 def parse_13f_file(file, CIK):
     try:
@@ -80,17 +81,28 @@ def get_ciks(cik_path):
     df = pd.read_csv(cik_path, sep = "\t", dtype={'CIK': object})
     return df.CIK.values
 
+def save_to_db(df):
+    try:
+        os.mkdir(os.path.join('data', 'sec-edgar-filings', 'sec_db'))
+    except OSError as error: 
+        print(error)
+    engine = create_engine('sqlite:///data/sec-edgar-filings/sec_db/SEC.db', echo = True)
+    #engine = create_engine('sqlite:///SEC.db', echo=True)
+    sqlite_connection = engine.connect()
+    sqlite_table = "13F_db"
+    df.to_sql(sqlite_table, sqlite_connection, if_exists='replace')
+    sqlite_connection.close()
+
 if __name__ == "__main__":
     cik_path = os.path.join('data', 'cik_file.txt')
     ciks = get_ciks(cik_path)
     df = pd.DataFrame()
     for c in ciks:
         df_c = parse_cik_files(c)
-        print(df_c.head())
         df = df.append(df_c)
-    print(df.head())
     df['value'] = df['value'].astype(float)
     print(df.groupby(['fund','date'])['value'].sum())
+    save_to_db(df)
     
     #for testing
     #df = parse_cik_files('0000089014', '0001567619-21-001894')
